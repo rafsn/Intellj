@@ -1,9 +1,9 @@
 package Digital.EstruturaDados;
 
-public class Objeto {
+public class MeuObj {
     Integer num;
 
-    public Objeto(Integer num) {
+    public MeuObj(Integer num) {
         this.num = num;
     }
 
